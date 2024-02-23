@@ -1,0 +1,23 @@
+{
+  "name": "spotify-get-track-link",
+  "version": "1.0.0",
+  "description": "A simple library to get spotify music links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skaail/spotify-get-track-link.git"
+  },
+  "homepage": "https://github.com/skaail/spotify-get-track-link",
+  "author": "Bruno Gianini <blgianini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "spotify-get-track-link": "^1.0.0"
+  }
+}
