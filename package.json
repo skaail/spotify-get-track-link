@@ -1,6 +1,6 @@
 {
   "name": "spotify-get-track-link",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple library to get spotify music links",
   "main": "index.js",
   "scripts": {
